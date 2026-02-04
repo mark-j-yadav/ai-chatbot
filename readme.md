@@ -34,31 +34,7 @@ This project is designed to demonstrate real-world AI integration, clean archite
 
 ---
 
-## 📁 Project Structure
 
-project-root/
-│
-├── backend/
-│ ├── main.py # FastAPI app entry point
-│ ├── chatbot.py # AI logic (OpenAI integration)
-│ ├── memory.py # Chat memory / context
-│ ├── config.py # App & AI configuration
-│ └── requirements.txt
-│
-├── frontend/
-│ └── ai-chatbot-frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── services/
-│ │ └── App.jsx
-│ ├── tailwind.config.js
-│ └── package.json
-│
-├── .env # Environment variables (ignored in git)
-└── README.md
-
-
----
 
 ## ⚙️ Installation & Setup
 
